@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-alx repository for basic shell scripts
+alx-system_engineering-devops tasks
