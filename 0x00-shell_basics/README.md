@@ -1,1 +1,1 @@
-copies all HTML files
+moves files beginning with upper case letters
