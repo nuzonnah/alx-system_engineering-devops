@@ -1,1 +1,1 @@
-sets same permissions for two files
+add execute permission to subdirectories
