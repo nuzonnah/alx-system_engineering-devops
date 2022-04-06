@@ -1,1 +1,1 @@
-reads all files and directories
+magic file
