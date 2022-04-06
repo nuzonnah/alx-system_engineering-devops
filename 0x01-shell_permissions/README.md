@@ -1,1 +1,1 @@
-adds execute permission to the owner of the file
+adds execute permissions to owner and group owner, and read permissions to other users
