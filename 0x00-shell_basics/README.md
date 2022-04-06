@@ -1,1 +1,1 @@
-creates multiple directories
+reads all files and directories
