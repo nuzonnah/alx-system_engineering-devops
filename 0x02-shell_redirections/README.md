@@ -1,1 +1,1 @@
-displays lines containing "root" and three lines after them
+displays all lines in the file /etc/passwd that do not contain "bin"
