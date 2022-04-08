@@ -1,1 +1,1 @@
- prints all files with .gif extension in dir and subdir
+decodes acrostics using first letter of each line
