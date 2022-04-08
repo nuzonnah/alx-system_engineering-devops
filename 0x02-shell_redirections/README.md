@@ -1,1 +1,1 @@
-count directories and subdirectories
+displays 10 newest files
