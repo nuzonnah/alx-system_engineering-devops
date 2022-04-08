@@ -1,1 +1,1 @@
-replace the characters "A" and "c" with "Z" and "e" respectively
+remove all letters "C" and "c" from input
