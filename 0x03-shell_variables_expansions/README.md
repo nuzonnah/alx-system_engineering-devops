@@ -1,1 +1,1 @@
-prints result of division
+displays result of BREATH to the power of LOVE
