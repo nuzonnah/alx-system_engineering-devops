@@ -1,1 +1,1 @@
-create global variable
+ prints result of addition
