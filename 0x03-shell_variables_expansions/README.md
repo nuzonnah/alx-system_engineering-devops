@@ -1,1 +1,1 @@
-prints everyother line from the input, starting from the first line
+adds numbers stored in two variables and prints result
